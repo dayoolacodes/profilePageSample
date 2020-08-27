@@ -1,0 +1,22 @@
+.header{
+    justify-content: center;
+    align-items: center;
+    margin: 20px 50px;
+    padding: 15px 16px;
+    border: 0.5px solid grey;
+    box-shadow: 4px 5px #cecece;
+    border-radius: 10px;
+    height: 50px;
+}
+
+.nameIndex{
+    float: right;
+}
+
+
+.nameIndexBorder{    
+    
+    border: "3px solid green";
+    border-radius:"50%";
+    background-color: yellow;
+}
